@@ -1,2 +1,2 @@
 # Uma Musume Meta & Master.MDB Repo
-Publicly stored location of Uma Musume's meta and master.mdb file
+This houses the `meta` and `master.mdb` files for the mobile game, Uma Musume: Pretty Derby.
