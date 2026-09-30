@@ -1,4 +1,4 @@
-# Uma Musume Meta & Master.MDB Repo [![Build status](https://ci.appveyor.com/api/projects/status/omj5yfx2yrrjv2c9?svg=true)](https://ci.appveyor.com/project/SimpleSandman/umamusumemetamastermdb)
+# Uma Musume Meta & Master.MDB Repo [![Build status](https://ci.appveyor.com/api/projects/status/omj5yfx2yrrjv2c9/branch/master?svg=true)](https://ci.appveyor.com/project/SimpleSandman/umamusumemetamastermdb)
 
 This repo holds the `meta` and `master.mdb` files for the mobile game, [Uma Musume: Pretty Derby](https://umamusume.jp/).
 
